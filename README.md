@@ -13,6 +13,13 @@ With that out of the way, let me present:
 
 Stormcrown: a fnamade TES project
 
+In order to play, you must download the file on your device,
+then open it in a browser. 
+It is playable on mobile- iOS and Android
+In order to save between updates, hit the save progress button.
+It should open your files, where you can save the save file to 
+a saves folder.
+
 The primary inspirition for this game was what if 
 there was an Elder Scrolls game that played like
 classic Fallout.
